@@ -4,6 +4,6 @@ Package.describe({
 
 Package.on_use(function (api) {
 	api.add_files([
-		'lib/respond/respond.src.js'
+		'kinetic-v4.3.3.min.js'
 		], 'client');
 });
