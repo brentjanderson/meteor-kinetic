@@ -4,6 +4,6 @@ Package.describe({
 
 Package.on_use(function (api) {
 	api.add_files([
-		'client/compatibility/kinetic-v4.5.2.min.js'
+		'kinetic-v4.5.2.min.js'
 		], 'client');
 });
