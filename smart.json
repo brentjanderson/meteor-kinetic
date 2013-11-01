@@ -3,7 +3,7 @@
 	"description": "Kinetic.js packaged for Meteor.",
 	"homepage": "https://github.com/brentjanderson/meteor-kinetic",
 	"author": "Brent Anderson  (http://brentjanderson.com)",
-	"version": "4.6.0",
-	"git": "https://github.com/brentjanderson/meteor-kinetic.git",
+	"version": "4.7.2",
+	"git": "https://github.com/3dd13/meteor-kinetic.git",
 	"packages": {}
 }
