@@ -4,7 +4,7 @@ Package.describe({
 
 Package.on_use(function (api) {
 	api.add_files([
-		'kinetic-v4.7.4.min.js'
+		'kinetic-v4.7.4.js'
 		], 'client');
 	if (typeof api.export !== 'undefined') {
     	api.export(['Kinetic'], 'client'); 
