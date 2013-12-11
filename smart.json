@@ -3,7 +3,7 @@
 	"description": "KineticJS, enterprise-class interactive web graphics with HTML5 Canvas",
 	"homepage": "https://github.com/brentjanderson/meteor-kinetic",
 	"author": "Brent Anderson  (http://brentjanderson.com)",
-	"version": "4.7.4.2",
+	"version": "4.7.4.3",
 	"git": "https://github.com/brentjanderson/meteor-kinetic.git",
 	"packages": {}
 }
