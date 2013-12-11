@@ -1,6 +1,6 @@
 {
 	"name": "kinetic.js",
-	"description": "Kinetic.js packaged for Meteor.",
+	"description": "KineticJS, enterprise-class interactive web graphics with HTML5 Canvas",
 	"homepage": "https://github.com/brentjanderson/meteor-kinetic",
 	"author": "Brent Anderson  (http://brentjanderson.com)",
 	"version": "4.7.4.1",
