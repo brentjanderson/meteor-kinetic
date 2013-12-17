@@ -28,7 +28,7 @@
 /**
  * @namespace Kinetic
  */
-var Kinetic = {};
+Kinetic = {};
 (function() {
     Kinetic = {
         // public

@@ -7,6 +7,6 @@ Package.on_use(function (api) {
 		'kinetic-v4.7.4.js'
 		], 'client');
 	if (typeof api.export !== 'undefined') {
-    	api.export(['Kinetic'], 'client'); 
-  	}
+		api.export(['Kinetic'], 'client'); 
+	}
 });
