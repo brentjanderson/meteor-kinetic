@@ -1,9 +1,9 @@
 {
 	"name": "kinetic.js",
-	"description": "KineticJS, enterprise-class interactive web graphics with HTML5 Canvas",
+	"description": "HTML5 Canvas JavaScript framework that enables high performance animations, transitions, node nesting, layering, filtering, caching, event handling for desktop and mobile applications, and much more.",
 	"homepage": "https://github.com/brentjanderson/meteor-kinetic",
-	"author": "Brent Anderson  (http://brentjanderson.com)",
-	"version": "4.7.4.4",
+	"author": "Brent Anderson (http://brentjanderson.com)",
+	"version": "5.0.1",
 	"git": "https://github.com/brentjanderson/meteor-kinetic.git",
 	"packages": {}
 }
